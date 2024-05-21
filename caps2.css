@@ -1,0 +1,78 @@
+body {
+    color: black;
+    margin: 0;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.top-container {
+    background-color: lightgray;
+    margin-bottom: 50px;
+}
+
+.plogo {
+    margin-right: 80%;
+    margin-top: 50px;
+}
+
+.title {
+    color: rgb(42, 62, 128);
+    font-size: 4rem;
+    font-weight: bolder;
+    font-family: "Sacramento", cursive;
+}
+
+.logo {
+    margin-right: 1000px;
+    margin-bottom: 50px;
+}
+
+.my-photo {
+    border-radius: 50%;
+}
+
+.display {
+    color: rgb(42, 62, 128);
+    margin-top: 15px;
+}
+
+.container-skill {
+    display: block;
+    background-color: lightgray;
+}
+
+.lead {
+    font-size: 1rem;
+    font-weight: 0;
+}
+
+hr {
+    border: dotted rgb(42, 62, 128) 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+
+.d-block1 {
+    border-radius: 15%;
+}
+
+.contact-me-btn {
+    color: white;
+}
+
+.footer-link {
+    display: inline-block;
+    color: midnightblue;
+    padding: 10px 5px 10px;
+}
+
+.button-container {
+    padding-top: 50px;
+    height: 200px;
+    background-color: steelblue;
+}
+
+.copyright {
+    padding-top: 50px;
+}
